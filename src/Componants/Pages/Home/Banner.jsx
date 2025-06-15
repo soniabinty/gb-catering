@@ -36,7 +36,7 @@ const Banner = () => {
           </h3>
          <a
   href="#"
-  className="inline-block bg-pink-700 text-white px-8 py-2 text-sm shadow-md hover:bg-gray-200 hover:text-black transition tracking-[.25em]
+  className="inline-block bg-pink-700 text-white px-8 py-2 text-sm shadow-md hover:bg-gray-200 hover:text-black transition tracking-[.30em]
  uppercase"
 >
   OUR SERVICES
