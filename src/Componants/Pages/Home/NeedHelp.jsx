@@ -27,7 +27,7 @@ const NeedHelp = () => {
 
         <a
           href="https://www.eventsbyindianocean.co.uk/contact/"
-          className="inline-block bg-pink-700 text-white px-8 py-3 text-sm font-medium uppercase tracking-[.30em] hover:bg-white hover:text-black transition duration-300"
+          className="inline-block bg-pink-700 underline text-white px-8 py-3 text-sm font-medium  tracking-[.30em] hover:bg-white hover:text-black transition duration-300"
         >
           Get in Touch
         </a>
