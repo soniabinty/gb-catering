@@ -1,1 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
+
+
+.krona-font{
+    font-family: "Krona One", sans-serif;
+}
+
+.montserrat-font{
+ font-family: "Montserrat", sans-serif;
+}
+
+.prata-font{
+ font-family: "Prata", serif;
+}
+.karla-font{
+font-family: "Karla", sans-serif;
+}
+.raleway-font{
+    font-family: "Raleway", sans-serif;
+}

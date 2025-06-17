@@ -1,0 +1,173 @@
+{
+  "home": "Home",
+  "services": "Services",
+  "catering": "Catering",
+  "weddingStages": "Wedding Stages",
+  "weddingDecor": "Wedding Decor",
+  "eventManagement": "Event Management",
+  "weddingServices": "Wedding Services",
+  "ourWork": "Our Work",
+  "contact": "Contact",
+  "quote": "Get a Quote",
+   "bannerTitleLine1": "GB Catering",
+  "bannerTitleLine2": "Event Management",
+  "bannerSubtitle": "France's finest ASIAN caterers",
+  "ourServices": "OUR SERVICES",
+ 
+  "event2": {
+    "catering": {
+      "title": "CATERING",
+      "desc": "At GB Catering & Events Management we pride ourselves as being among the best Asian Wedding Caterers in France and its surrounding areas. From weddings in unique venues to at home events."
+    },
+    "weddingStages": {
+      "title": "WEDDING STAGES",
+      "desc": "We can further intensify the grandeur of your venue with a mesmerising wedding stage and walkways. Our services include Asian Wedding and Mehndi stages, table dressing, floral decoration, room draping and lighting."
+    },
+    "weddingDecor": {
+      "title": "WEDDING DECOR",
+      "desc": "We provide the finishes touches that personalises your event and brings everything together on your special day. This includes lavish walkways, head table décor with luxury linen, chair covers and charger plates."
+    },
+    "eventPlanners": {
+      "title": "EVENT PLANNERS",
+      "desc": "We believe your planning experience should be as smooth and enjoyable as the event itself. With a range of experienced planners we can deliver everything you need."
+    },
+    "weddingService": {
+      "title": "WEDDING SERVICE",
+      "desc": "We can help you and your families move forward with the planning with Car Hire, Photography, Cinematic Wedding Films, Venue Hire, Marquees, Wedding Attire, Toastmasters, Wedding & Mehndi Cakes and more."
+    },
+    "centrepieces": {
+      "title": "CENTREPIECES",
+      "desc": "Your wedding centrepieces are just as vital as all of the other wedding details and provide the perfect opportunity to enhance your venue space while incorporating your theme and style."
+    },
+    "readMore": "Read More"
+  },
+   "aboutUs": {
+    "title": "About Us",
+    "description": "At GB Catering & Events Management we pride ourselves as being among the best Asian Wedding Caterers in France and its surrounding areas. Catering for all occasions using fresh and seasonal ingredients from our in-house kitchen. We can cook up rich traditional flare, complete with aromatic spices, served at the perfect temperature with delightful toppings and sides.",
+    "videoFallback": "Your browser does not support the video tag.",
+    "headline1": "LIFE IS AN EVENT",
+    "headline2": "MAKE IT MEMORABLE"
+  },
+   "gallery": {
+    "title": "Our Gallery",
+    "viewMore": "View More",
+    "imageAlt": "Gallery image {{number}}"
+  },
+   "needHelp": {
+    "title": "NEED HELP?",
+    "line1": "If you need more information about making a selection from the services we offer,",
+    "line2": "please don’t hesitate to get in touch!",
+    "button": "Get in Touch"
+  },
+   "letsTalk": {
+    "title": "Let's Talk",
+    "subtitle": "Simply fill in the form below to get in touch with us."
+  }
+  ,
+  "catering2": {
+    "title": "Catering",
+    "intro": "At GB Catering & Events Management we pride ourselves as being among the best Asian Wedding Caterers in France and its surrounding areas. Catering for all occasions using fresh and seasonal ingredients from our in‑house kitchen in France. We can cook up a rich traditional flare, complete with aromatic spices, served at the perfect temperature with delightful toppings and sides.",
+    "occasionTitle": "Catering for ANY OCCASION",
+    "occasionDesc": "From weddings in unique venues to bespoke corporate events and private ‘at home’ family get togethers including Mehndi’s, Nikahs and Birthdays. We have various packages to suit your needs. Our catering is designed to impress you and your guests with the food and service for which we are renowned. Whether you wish to be involved at every juncture from choosing crockery to menu creation and venue dressing or whether you prefer us to take full control, enabling you to sit back and enjoy your event, we work with you to ensure we provide an unforgettable Indian Ocean experience!",
+    "indian": {
+      "title": "INDIAN WEDDING",
+      "desc": "We will create and produce a spectacular Indian wedding for you, your family and guests. Bespoke walkways, light up floors, special indoor lighting and firework effects to bring colour and life into the event."
+    },
+    "muslim": {
+      "title": "MUSLIM WEDDING",
+      "desc": "Bespoke designs and decor to meet the expectations of an Islamic Wedding, themed with the traditions it holds with 100% Halal Certified food served. We offer wedding stages, lighting, florals and backdrops, as well as table centrepieces for all your event needs."
+    },
+    "arab": {
+      "title": "ARAB WEDDING",
+      "desc": "Using the latest trends and colours we can fulfil the requests of the Bride and Groom to reflect their traditions. Using various decor and props we can illuminate the event to your need and make it hospitable for your guests."
+    }
+  },
+  "stages": {
+    "heading": "Wedding Stages",
+    "intro": "We can further intensify the grandeur of your venue with a mesmerising wedding stage. It’s the masterpiece of the day with photo’s gatherings and the centre of attention being around the wedding stage. We specialise in event theming and venue decoration. Our services include Asian wedding and Mehndi stages, chair and table dressing, floral decoration, room draping, lighting and effects as well as events coordination and management.",
+    "imageAlt": "Wedding stage setup",
+    "subheading": "CREATE MEMORIES TO LAST A LIFETIME",
+    "mehndi": {
+      "title": "MEHNDI STAGES",
+      "desc": "We offer a range of exclusive stages to fit your style and trend with the latest colourways to the props and cushions needed to bring your stage to life. Whether it’s at home or at a venue we have stages that fit all requirements."
+    },
+    "gallery": {
+      "title": "Gallery",
+      "desc": "For latest images check out our gallery and social media for more elegant and stylish stages.",
+      "button": "Gallery",
+      "social": "Social Media"
+    }
+  },
+    "decor": {
+    "title": "Wedding Decor",
+    "imageAlt": "wedding decor image",
+    "responses": "{{count}} Responses",
+    "leaveReply": "Leave a Reply",
+    "privacy": "Your email address will not be published.",
+    "requiredNote": "* Required fields",
+    "comment": "Comment",
+    "name": "Name",
+    "email": "Email",
+    "website": "Website",
+    "postComment": "Post Comment"
+  },
+   "event": {
+    "title": "Event Management & Planning",
+    "intro1": "We believe your planning experience should be as smooth and enjoyable as the event itself. At Indian Ocean, we can create the perfect reflection of your dreams, wishes and expectations. With an in-depth understanding of the religious and practical aspects of an Asian wedding.",
+    "intro2": "We listen to your need and then we can provide you with a comprehensive selection of venues, each specifically chosen based on your requirements including your preferred location, guest numbers, setting and budget. We make this potentially challenging decision simple, organising site visits and liaising with the venues, ensuring that your preferred venue is the ideal one for your special occasion.",
+    "intro3": "Our management team will be with you on the day of your event, onsite from the moment the first supplier arrives until the last guest has left, working tirelessly behind the scenes to ensure flawless results.",
+    "imageAlt": "Wedding catering with decorated table",
+    "services": {
+      "title": "Services",
+      "description": "No matter where you are at, we can help you and your families move forward with the planning. Our dedicated planners have the knowledge, understanding and know-how to guide you through the myriad of choices that need to be made saving you time and stress. This includes Wedding Photography, Cinematic Wedding Films, Car Hire, Venue Hire, Marquees, Wedding Attire, Toastmasters, Photobooths, Wedding & Mehndi Cakes and more."
+    },
+    "management": {
+      "title": "Management",
+      "description": "From the flowers and decorations to theme ideas, we work with you to bring your vision to life. We ensure that every detail of your event is perfectly planned. We have managers looking after each section, so your event runs smoothly without any disruptions."
+    },
+    "planners": {
+      "title": "Wedding Planners",
+      "p1": "At Indian Ocean we are dedicated to making your wedding day a truly remarkable and unforgettable occasion. Our team of experienced wedding planners and floral designers are well-versed in the traditions and marriage ceremonies of different Asian cultures including those of Hindu, Muslim, and Sikh faiths.",
+      "p2": "We listen carefully to our clients’ dreams and requirements. Whether you desire a traditional lavish Asian ceremony or a fusion of Indian culture and Western culture, we can make it happen. Our beautifully planned weddings are meticulously organised and designed to match your families’ specific cultural expectations."
+    }
+  },
+  "contact2": {
+    "headerAlt": "Indian Ocean Facebook cover image"
+  },
+  "contact3": {
+    "sayHello": "Say hello",
+    "address": "Paris, France",
+    "socialMedia": "Our Social Media"
+  },
+  "quote2": {
+    "getAFreeQuote": "GET A FREE QUOTE",
+    "getInTouch": "GET IN TOUCH FOR A QUOTE",
+    "fillFormInstruction": "Simply fill in the form below to request a free catering and wedding planning quote"
+  }
+,
+"weddingServices2": {
+        "title": "Wedding Services",
+        "intro": "No matter where you are at, we can help you and your families move forward with the planning. Our dedicated planners have the knowledge, understanding and know-how to guide you through the myriad of choices that need to be made saving you time and stress. This includes Wedding Photography, Cinematic Wedding Films, Car Hire, Venue Hire, Marquees, Wedding Attire, Toastmasters, Photo booths, Wedding & Mehndi Cakes and more.",
+        "quote": "May your joys be as deep as the ocean",
+        "marquees": {
+         "title": "Marquees",
+          "description": "Our marquees offer the freedom and versatility to create a magical outdoor setting for your wedding. Our wedding marquee hire will help you create a beautiful atmosphere for your wedding, in a natural environment, without the restrictions that often come with other marquee services. Our marquees look visually stunning, our team is amazing to work with and our reputation for always being on time guarantees you the peace of mind."
+        },
+        "lighting": {
+          "title": "Lighting",
+          "description": "Make your dream wedding come true, and they know how the correct lighting can make a massive difference. Working alongside you, our wedding planners will design a bespoke, special experience, tailored to your desires. They will inform our amazing lighting experts about your colour schemes, themes and dreams so that they can create exactly what you want and more."
+        }
+      },
+      "form": {
+    "first_name": "FIRST NAME",
+    "last_name": "SECOND NAME",
+    "email": "EMAIL",
+    "phone": "PHONE",
+    "location": "LOCATION OR VENUE",
+    "event_date": "EVENT DATE",
+    "message": "Your Requirement",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Try again."
+  }
+}

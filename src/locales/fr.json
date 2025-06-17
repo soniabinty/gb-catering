@@ -1,0 +1,171 @@
+{
+  "home": "Accueil",
+  "services": "Services",
+  "catering": "Restauration",
+  "weddingStages": "Scènes de mariage",
+  "weddingDecor": "Décoration de mariage",
+  "eventManagement": "Gestion & Planification d'Événements",
+  "weddingServices": "Services de mariage",
+  "ourWork": "Nos Réalisations",
+  "contact": "Contact",
+  "quote": "OBTENIR UN DEVIS",
+  "bannerTitleLine1": "Traiteur GB",
+  "bannerTitleLine2": "Gestion d'événements",
+  "bannerSubtitle": "Les meilleurs traiteurs asiatiques de France",
+  "ourServices": "NOS SERVICES",
+   "event2": {
+    "catering": {
+      "title": "TRAITEUR",
+      "desc": "Chez GB Catering & Events Management, nous sommes fiers d'être parmi les meilleurs traiteurs de mariage asiatiques en France et ses environs. Des mariages dans des lieux uniques aux événements à domicile."
+    },
+    "weddingStages": {
+      "title": "SCÈNES DE MARIAGE",
+      "desc": "Nous pouvons intensifier la grandeur de votre lieu avec une scène de mariage et des allées fascinantes. Nos services incluent des scènes de mariage et Mehndi asiatiques, la décoration de tables, la décoration florale, le drapage de salle et l'éclairage."
+    },
+    "weddingDecor": {
+      "title": "DÉCORATION DE MARIAGE",
+      "desc": "Nous fournissons les touches finales qui personnalisent votre événement et rassemblent tout le jour spécial. Cela inclut des allées somptueuses, une décoration de table principale avec du linge de luxe, des housses de chaise et des assiettes décoratives."
+    },
+    "eventPlanners": {
+      "title": "PLANIFICATEURS D'ÉVÉNEMENTS",
+      "desc": "Nous croyons que votre expérience de planification devrait être aussi fluide et agréable que l'événement lui-même. Avec une gamme de planificateurs expérimentés, nous pouvons livrer tout ce dont vous avez besoin."
+    },
+    "weddingService": {
+      "title": "SERVICE DE MARIAGE",
+      "desc": "Nous pouvons vous aider, vous et vos familles, à avancer dans la planification avec la location de voiture, la photographie, les films de mariage cinématographiques, la location de lieu, les chapiteaux, les tenues de mariage, les maîtres de cérémonie, les gâteaux de mariage et Mehndi, et plus encore."
+    },
+    "centrepieces": {
+      "title": "PIÈCES CENTRALES",
+      "desc": "Vos pièces centrales de mariage sont aussi vitales que tous les autres détails du mariage et offrent l'occasion parfaite d'améliorer votre espace de lieu tout en incorporant votre thème et style."
+    },
+    "readMore": "Lire la suite"
+  },
+  "aboutUs": {
+    "title": "À propos de nous",
+    "description": "Chez GB Catering & Events Management, nous sommes fiers d'être parmi les meilleurs traiteurs de mariage asiatiques en France et ses environs. Nous proposons des services de restauration pour toutes les occasions, utilisant des ingrédients frais et de saison issus de notre cuisine interne. Nous préparons des plats traditionnels riches, accompagnés d'épices aromatiques, servis à la température parfaite avec des garnitures et accompagnements délicieux.",
+    "videoFallback": "Votre navigateur ne supporte pas la balise vidéo.",
+    "headline1": "LA VIE EST UN ÉVÉNEMENT",
+    "headline2": "FAITES-LE MÉMORABLE"
+  },
+    "gallery": {
+    "title": "Notre Galerie",
+    "viewMore": "Voir plus",
+    "imageAlt": "Image de la galerie {{number}}"
+  },
+  "needHelp": {
+    "title": "BESOIN D’AIDE ?",
+    "line1": "Si vous avez besoin de plus d'informations pour choisir parmi nos services,",
+    "line2": "n'hésitez pas à nous contacter !",
+    "button": "Contactez-nous"
+  },
+   "letsTalk": {
+    "title": "Parlons-en",
+    "subtitle": "Remplissez simplement le formulaire ci-dessous pour nous contacter."
+  },
+    "catering2": {
+    "title": "Traiteur",
+    "intro": "Chez GB Catering & Events Management, nous sommes fiers d’être parmi les meilleurs traiteurs de mariages asiatiques en France et dans les régions environnantes.Nous assurons le service traiteur pour toutes les occasions en utilisant des ingrédients frais et de saison provenant de notre cuisine interne en France.Nous pouvons préparer une cuisine traditionnelle riche, agrémentée d'épices aromatiques, servie à la température idéale avec de délicieux accompagnements et garnitures.",
+    "occasionTitle": "TRAITEUR POUR TOUTE OCCASION",
+    "occasionDesc": "Des mariages dans des lieux uniques aux événements d’affaires personnalisés et réunions privées à domicile, y compris Mehndi, Nikahs et anniversaires. Nous proposons divers forfaits pour répondre à vos besoins. Notre service de restauration est conçu pour impressionner vous et vos invités, par la nourriture et le service pour lesquels nous sommes réputés. Que vous souhaitiez être impliqué à chaque étape, depuis le choix de la vaisselle jusqu’à la création du menu et l’habillage du lieu, ou que vous préfériez que nous prenions le contrôle total, vous permettant de vous détendre et de profiter de votre événement, nous travaillons avec vous pour vous offrir une expérience Indian Ocean inoubliable !",
+    "indian": {
+      "title": "MARIAGE INDIEN",
+      "desc": "Nous créerons et produirons un mariage indien spectaculaire pour vous, votre famille et vos invités. Allées sur mesure, pistes illuminées, éclairage intérieur spécial et effets pyrotechniques pour apporter de la couleur et de la vie à l’événement."
+    },
+    "muslim": {
+      "title": "MARIAGE MUSULMAN",
+      "desc": "Des conceptions et décorations personnalisées pour répondre aux attentes d’un mariage islamique, thématisées avec les traditions qu’il implique, avec une nourriture 100 % certifiée halal. Nous proposons des scènes de mariage, éclairage, compositions florales et arrière-plans, ainsi que des centres de table pour tous vos besoins événementiels."
+    },
+    "arab": {
+      "title": "MARIAGE ARABE",
+      "desc": "En utilisant les dernières tendances et couleurs, nous pouvons répondre aux souhaits des mariés pour refléter leurs traditions. Grâce à différents décors et accessoires, nous pouvons illuminer l’événement selon vos besoins et le rendre chaleureux pour vos invités."
+    }
+  },
+  "stages": {
+    "heading": "Scènes de mariage",
+    "intro": "Nous pouvons intensifier la grandeur de votre lieu avec une scène de mariage fascinante. C’est le point central de la journée où les photos et les rassemblements gravitent autour de la scène. Nous sommes spécialisés dans le thème d'événement et la décoration de lieu. Nos services incluent des scènes de mariage asiatiques et Mehndi, la mise en forme des chaises et tables, la décoration florale, le drapage de salle, l’éclairage et les effets ainsi que la coordination et gestion d’événements.",
+    "imageAlt": "Scène de mariage installée",
+    "subheading": "CRÉEZ DES SOUVENIRS POUR LA VIE",
+    "mehndi": {
+      "title": "SCÈNES MEHNDI",
+      "desc": "Nous proposons une gamme de scènes exclusives adaptées à votre style et tendance avec les dernières couleurs, accessoires et coussins nécessaires pour donner vie à votre scène. Qu’il s’agisse d’un événement à domicile ou en lieu public, nous avons des scènes répondant à toutes les exigences."
+    },
+    "gallery": {
+      "title": "Galerie",
+      "desc": "Pour les dernières images, consultez notre galerie et nos réseaux sociaux pour découvrir des scènes plus élégantes et stylées.",
+      "button": "Galerie",
+      "social": "Réseaux sociaux"
+    }
+  },
+   "decor": {
+    "title": "Décoration de mariage",
+    "imageAlt": "image de décoration de mariage",
+    "responses": "{{count}} réponses",
+    "leaveReply": "Laisser un commentaire",
+    "privacy": "Votre adresse e-mail ne sera pas publiée.",
+    "requiredNote": "* Champs requis",
+    "comment": "Commentaire",
+    "name": "Nom",
+    "email": "Email",
+    "website": "Site Web",
+    "postComment": "Publier le commentaire"
+  },
+   "event": {
+    "title": "Gestion et Planification d'Événements",
+    "intro1": "Nous croyons que votre expérience de planification doit être aussi fluide et agréable que l'événement lui-même. Chez Indian Ocean, nous pouvons créer le reflet parfait de vos rêves, souhaits et attentes. Avec une compréhension approfondie des aspects religieux et pratiques d'un mariage asiatique.",
+    "intro2": "Nous écoutons vos besoins et vous proposons une sélection complète de lieux, chacun étant spécifiquement choisi en fonction de vos critères, notamment l'emplacement souhaité, le nombre d'invités, le cadre et le budget. Nous simplifions cette décision potentiellement difficile en organisant des visites de site et en communiquant avec les lieux, garantissant que votre lieu préféré est le plus adapté à votre occasion spéciale.",
+    "intro3": "Notre équipe de gestion sera présente le jour de votre événement, sur place dès l'arrivée du premier prestataire jusqu'au départ du dernier invité, travaillant sans relâche en coulisses pour garantir un résultat parfait.",
+    "imageAlt": "Restauration de mariage avec table décorée",
+    "services": {
+      "title": "Services",
+      "description": "Peu importe où vous en êtes, nous pouvons vous aider, vous et vos familles, à avancer dans la planification. Nos planificateurs dévoués possèdent les connaissances et l'expérience nécessaires pour vous guider à travers les nombreux choix à faire, vous faisant gagner du temps et réduisant le stress. Cela inclut la photographie de mariage, les films cinématographiques, la location de voiture, la location de lieu, les chapiteaux, les tenues de mariage, les maîtres de cérémonie, les cabines photo, les gâteaux de mariage et de mehndi, et bien plus encore."
+    },
+    "management": {
+      "title": "Gestion",
+      "description": "Des fleurs et décorations aux idées de thème, nous travaillons avec vous pour donner vie à votre vision. Nous veillons à ce que chaque détail de votre événement soit parfaitement planifié. Nos gestionnaires s'occupent de chaque section pour que votre événement se déroule sans accroc."
+    },
+    "planners": {
+      "title": "Organisateurs de Mariage",
+      "p1": "Chez Indian Ocean, nous nous engageons à faire de votre jour de mariage une occasion véritablement remarquable et inoubliable. Notre équipe de planificateurs de mariage expérimentés et de designers floraux maîtrise les traditions et les cérémonies de mariage des différentes cultures asiatiques, y compris hindoues, musulmanes et sikhs.",
+      "p2": "Nous écoutons attentivement les rêves et les besoins de nos clients. Que vous souhaitiez une cérémonie asiatique traditionnelle somptueuse ou une fusion des cultures indienne et occidentale, nous pouvons la réaliser. Nos mariages soigneusement planifiés sont méticuleusement organisés et conçus pour répondre aux attentes culturelles spécifiques de vos familles."
+    }
+  },
+  "contact2": {
+    "headerAlt": "Image de couverture Facebook d'Indian Ocean"
+  },
+   "contact3": {
+    "sayHello": "Dites bonjour",
+    "address": "Paris, France",
+    "socialMedia": "Nos réseaux sociaux"
+  },
+  "quote2": {
+    "getAFreeQuote": "OBTENEZ UN DEVIS GRATUIT",
+    "getInTouch": "CONTACTEZ-NOUS POUR UN DEVIS",
+    "fillFormInstruction": "Remplissez simplement le formulaire ci-dessous pour demander un devis gratuit pour la restauration et la planification de mariage"
+  },
+  "weddingServices2": {
+        "title": "Services de Mariage",
+        "intro": "Peu importe où vous en êtes, nous pouvons vous aider, vous et vos familles, à avancer dans la planification. Nos planificateurs dévoués possèdent les connaissances, la compréhension et le savoir-faire pour vous guider à travers la multitude de choix à faire, vous faisant gagner du temps et réduisant le stress. Cela inclut la photographie de mariage, les films cinématographiques, la location de voiture, la location de lieu, les chapiteaux, les tenues de mariage, les maîtres de cérémonie, les cabines photo, les gâteaux de mariage et de mehndi, et bien plus encore.",
+        "quote": "Que vos joies soient aussi profondes que l'océan",
+        "marquees": {
+          "title": "Chapiteaux",
+          "description": "Nos chapiteaux offrent la liberté et la polyvalence pour créer un cadre extérieur magique pour votre mariage. Notre service de location de chapiteaux de mariage vous aidera à créer une atmosphère magnifique pour votre mariage, dans un environnement naturel, sans les restrictions souvent associées à d'autres services de chapiteaux. Nos chapiteaux sont visuellement époustouflants, notre équipe est formidable à travailler et notre réputation d'être toujours à l'heure vous garantit la tranquillité d'esprit."
+        },
+        "lighting": {
+          "title": "Éclairage",
+          "description": "Réalisez le mariage de vos rêves, et ils savent à quel point un éclairage approprié peut faire une différence significative. En travaillant à vos côtés, nos planificateurs de mariage concevront une expérience sur mesure, adaptée à vos désirs. Ils informeront nos experts en éclairage exceptionnels de vos schémas de couleurs, thèmes et rêves afin qu'ils puissent créer exactement ce que vous voulez et plus encore."
+        }
+      },
+       "form": {
+    "first_name": "PRÉNOM",
+    "last_name": "NOM DE FAMILLE",
+    "email": "EMAIL",
+    "phone": "TÉLÉPHONE",
+    "location": "LIEU OU SALLE",
+    "event_date": "DATE DE L'ÉVÉNEMENT",
+    "message": "Votre demande",
+    "submit": "Envoyer le message",
+    "success": "Message envoyé avec succès !",
+    "error": "Échec de l'envoi du message. Réessayez."
+  }
+}
+  
